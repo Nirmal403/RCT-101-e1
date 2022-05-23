@@ -1,0 +1,23 @@
+.counter {
+  /* TODO */
+
+  /* border: 1px solid red; */
+  width: 100px;
+  margin-left: 200px;
+  
+}
+
+.counter>button{
+  /* border: 5px solid red; */
+  padding: 8px 12px;
+  background-color: #8197e8;
+  border: #8197e8;
+  border-radius: 4px;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 4px;
+  margin-right: 2px;
+}
+
+

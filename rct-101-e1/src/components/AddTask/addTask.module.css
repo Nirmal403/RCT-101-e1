@@ -1,0 +1,30 @@
+.todoForm {
+  /* Sample */
+  padding: 2rem;
+  /* border: 1px solid red; */
+  width: 400px;
+  margin: auto;
+}
+
+.todoForm>input{
+  flex: 1 1;
+  height: 50px;
+  border: none;
+  font-size: 1rem;
+  font-weight: 700;
+  padding-right: 0.75rem;
+}
+
+
+.todoForm>button{
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  /* border-radius: 50%; */
+  font-size: 2rem;
+  line-height: 0;
+  font-weight: 700;
+  color: var(--primary-color);
+  transition: 0.3s ease;
+  margin-left: 10px;
+}
